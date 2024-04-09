@@ -20,3 +20,5 @@ def retKML(dstip, srcip):
         return kml
     except:
         return ''
+if __name__ == '__main__':
+    main()
